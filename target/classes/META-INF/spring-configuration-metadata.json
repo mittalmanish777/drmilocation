@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "properties": [
+    {
+      "description": "Specify the Profile name {local | dev | test | prod} in application.properties for '-Dspring.profiles.active'",
+      "name": "-Dspring.profiles.active",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.pge.drmi.config.LSEMapping",
+      "name": "custom.path-mapper",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    }
+  ],
+  "groups": [
+    {
+      "sourceType": "com.pge.drmi.config.LSEMapping",
+      "name": "custom",
+      "type": "com.pge.drmi.config.LSEMapping"
+    }
+  ]
+}

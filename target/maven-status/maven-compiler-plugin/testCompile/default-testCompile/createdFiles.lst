@@ -1,0 +1,4 @@
+com\pge\drms\location\jobs\test\EligilibilityJobTest.class
+com\pge\drms\location\jobs\test\PreSubmitJobTest.class
+com\pge\drms\location\jobs\test\DefendLocationJobTest.class
+com\pge\drms\location\jobs\test\SubmitJobTest.class

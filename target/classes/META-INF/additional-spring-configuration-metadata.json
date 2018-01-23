@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "-Dspring.profiles.active",
+  "type": "java.lang.String",
+  "description": "Specify the Profile name {local | dev | test | prod} in application.properties for '-Dspring.profiles.active'"
+}]}
